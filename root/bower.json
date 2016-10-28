@@ -1,0 +1,31 @@
+{
+  "name": "bowerBeans",
+  "description": "Bower File For Loading Required Libs Into BEANS Public Lib Folder",
+  "main": "app/index.html",
+  "keywords": [
+    "app",
+    "beans"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "angular": "~1.5.0",
+    "angular-route": "~1.5.0",
+    "angular-loader": "~1.5.0",
+    "angular-mocks": "~1.5.0",
+    "angular-cookies": "^1.5.8",
+    "angular-touch": "^1.5.8",
+    "angular-animate": "^1.5.8",
+    "angular-ui-router": "^0.3.1",
+    "angular-bootstrap": "^2.2.0",
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.6.3",
+    "jquery": "~2.2.0"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
